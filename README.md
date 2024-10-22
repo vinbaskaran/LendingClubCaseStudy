@@ -10,6 +10,8 @@
 * [EDA Approach](#eda-approach)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+* [Contact](#contact)
+* [NB Viewer Link](#nb-viewer-link)
 
 
 ## EDA Approach
@@ -52,9 +54,5 @@
 Created by [@vinbaskaran] 
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## NB Viewer Link
 https://nbviewer.org/github/vinbaskaran/LendingClubCaseStudy/blob/main/Lending_club_case_study_EDA.ipynb
