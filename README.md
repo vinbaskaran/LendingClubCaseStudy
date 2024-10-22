@@ -51,7 +51,7 @@
 
 
 ## Contact
-Created by [@vinbaskaran] 
+Created by [Vineeth B - @vinbaskaran](https://github.com/vinbaskaran) 
 
 
 ## NB Viewer Link
