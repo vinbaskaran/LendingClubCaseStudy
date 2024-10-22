@@ -7,7 +7,7 @@
 - Provide insights for improving loan risk assessment.
 
 ## Table of Contents
-* [EDA Approach](#EDAApproach)
+* [EDA Approach](#eda-approach)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 
