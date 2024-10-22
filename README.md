@@ -11,7 +11,6 @@
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
-* [NB Viewer Link](#nb-viewer-link)
 
 
 ## EDA Approach
@@ -54,5 +53,4 @@
 Created by [Vineeth B - @vinbaskaran](https://github.com/vinbaskaran) 
 
 
-## NB Viewer Link
-[https://nbviewer.org/github/vinbaskaran/LendingClubCaseStudy/blob/main/Lending_club_case_study_EDA.ipynb](https://nbviewer.org/github/vinbaskaran/LendingClubCaseStudy/blob/main/Lending_club_case_study_Vineeth.ipynb)
+
